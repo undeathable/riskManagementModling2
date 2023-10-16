@@ -2,11 +2,17 @@
 
 风控模型实战--"魔镜杯"风控算法大赛
 https://zhuanlan.zhihu.com/p/56864235
+https://github.com/taenggu0309/PPD-Modeling-Competition/tree/master
 
+1. data_input: 数据导入及合并
+2. data_EDA_clean: 数据清洗
+3. feature_processing: 特征工程
+4. feature_select: 特征筛选
+5. single_lightgbm_model：单模型--lightgbm
+6. model_bagging_lightgbm：lightgbm的bagging模型
 
-    data_input: 数据导入及合并
-    data_EDA_clean: 数据清洗
-    feature_processing: 特征工程
-    feature_select: 特征筛选
-    single_lightgbm_model：单模型--lightgbm
-    model_bagging_lightgbm：lightgbm的bagging模型
+风控算法赛lgb实战-拍拍贷魔镜杯
+https://blog.csdn.net/a7303349/article/details/126023678
+
+使用xgboost建立评分卡
+https://blog.csdn.net/jwtning/article/details/118179514
