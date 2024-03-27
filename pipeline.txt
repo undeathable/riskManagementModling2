@@ -16,3 +16,47 @@ https://blog.csdn.net/a7303349/article/details/126023678
 
 使用xgboost建立评分卡
 https://blog.csdn.net/jwtning/article/details/118179514
+
+python德国信用评分卡建模
+https://www.bilibili.com/read/cv6859339/
+XGBoost算法案例实战——信用评分模型
+https://blog.csdn.net/weixin_45451576/article/details/126186231
+使用xgboost建立评分卡
+https://www.ngui.cc/zz/1723510.html?action=onClick
+评分卡模型（一）评分卡建模实战
+https://zhuanlan.zhihu.com/p/619097722
+基于python的信用卡评分模型
+https://www.bilibili.com/read/cv7129923/?from=readlist
+【机器学习】金融风控评分卡建模全流程！
+https://www.52dianzi.com/category/article/34bf3a7e29708bb36c6a39d361440004.html
+使用xgboost建立评分卡
+https://blog.csdn.net/jwtning/article/details/118179514
+基于Xgboost的AI评分卡构建
+https://blog.csdn.net/zzpl139/article/details/125968097
+《拍拍贷金融风控建模与调优》项目-互联网金融风控模型详细解决方案讲解
+https://www.bilibili.com/video/BV1xS4y1Y7rH/?spm_id_from=333.880.my_history.page.click&vd_source=b0d87cc983d7996a28027f33d444c840
+《马上消费金融风控模型》项目-马上金融风控背景与方案讲解
+https://www.bilibili.com/video/BV1fZ4y117xc/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b0d87cc983d7996a28027f33d444c840
+《马上消费金融风控模型》项目-马上金融风控代码单模型1
+https://www.bilibili.com/video/BV19i4y1m7Yw/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b0d87cc983d7996a28027f33d444c840
+《信用评分卡模型构建》项目-金融信用评分卡模型案例
+https://www.bilibili.com/video/BV1uD4y1s7Lm/?spm_id_from=333.788.recommend_more_video.1&vd_source=b0d87cc983d7996a28027f33d444c840
+几种风控算法的原理和代码实现
+https://blog.csdn.net/m0_46187027/article/details/103961372
+
+lightgbm pipeline
+https://stackoverflow.com/questions/66290815/lightgbm-on-numericalcategoricaltext-features-typeerror-unknown-type-of-pa
+https://stackoverflow.com/questions/46162855/fit-transform-takes-2-positional-arguments-but-3-were-given-with-labelbinarize
+https://www.cluzters.ai/forums/topic/430/fit-transform-takes-2-positional-arguments-but-3-were-given-with?c=1597
+https://stackoverflow.com/questions/62892086/why-should-labelencoder-from-sklearn-be-used-only-for-the-target-variable
+https://github.com/scikit-learn/scikit-learn/issues/12720
+https://stackoverflow.com/questions/54836051/pipeline-ordinalencoder-valueerror-found-unknown-categories
+https://scikit-learn.org/0.23/modules/generated/sklearn.preprocessing.OrdinalEncoder.html?highlight=ordinal#sklearn.preprocessing.OrdinalEncoder
+https://juejin.cn/post/6901270876704997389
+https://github.com/scikit-optimize/scikit-optimize/issues/762
+
+sklearn中GBDT的一些参数、属性、方法的理解
+https://blog.csdn.net/VariableX/article/details/107200334
+1.12. Multiclass and multioutput algorithms¶
+https://scikit-learn.org/stable/modules/multiclass.html
+https://stats.stackexchange.com/questions/260736/multiclass-classification-having-class-imbalance-with-gradient-boosting-classifi
